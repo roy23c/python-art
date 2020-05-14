@@ -1,3 +1,5 @@
+
+
 # Python Art
 
 Repository of eperimentation with generating art with python
@@ -18,7 +20,22 @@ Python 3
 
 Steps for setting up the various .py files
 
+pre, xmp, plaintext, listing {
+    white-space: pre;
+}
+.markdown-body pre > code {
+    white-space: pre;
+}
+.markdown-body code {
+    white-space: nowrap;
+}
+<pre><code>angle-art.py
+The program will draw lines with an increasing length. An input angle will change the direction the line is drawn. Each line color is a randomly generated RGB image.
+</code></pre>
+
+
 ```
+
 angle-art.py
 The program will draw lines with an increasing length. An input angle will change the direction the line is drawn. Each line color is a randomly generated RGB image. 
 
