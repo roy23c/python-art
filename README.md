@@ -6,8 +6,6 @@ Collection of experiments using python to generate art
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running for generating and experimenting with python art
-
 ### Prerequisites
 ```
 Python 3
