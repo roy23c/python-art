@@ -9,9 +9,6 @@ Collection of experiments using python to generate art
 These instructions will get you a copy of the project up and running for generating and experimenting with python art
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
-
 ```
 Python 3
 ```
@@ -23,6 +20,9 @@ Steps for setting up the various .py files
 #### angle-art.py
 
 The program will draw lines with increasing length. An input angle will change the direction the line is drawn. Each line color is a randomly generated RGB image.
+
+<img src="https://github.com/roycechung/python-art/blob/master/examples/line-art_01.png" width="50%">
+<img src="https://github.com/roycechung/python-art/blob/master/examples/line-art_02.png" width="50%">
 
 run angle-art by typing the following command into terminal
 
